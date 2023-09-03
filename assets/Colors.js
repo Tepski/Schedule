@@ -1,0 +1,17 @@
+export default {
+  // text: "#f3f7f3",
+  // background: "#0d120d",
+  // primary: "#9393b4",
+  // secondary: "#1f2d20",
+  // accent: "#a17878",
+  // text: "#040202",
+  // background: "#f0dbe1",
+  // primary: "#4f222e",
+  // secondary: "#ebd1d8",
+  // accent: "#a84863",
+  text: "#040406",
+  background: "#e5e5f0",
+  primary: "#4e4d2d",
+  secondary: "#ccdabe",
+  accent: "#82654a",
+};
